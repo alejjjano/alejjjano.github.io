@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(29, 29, 29);
+    background-color: blanchedalmond;
+}
+h1 {
+    text-align:center;
+    font-weight: bolder;
+    font-size: 24;
+}
+p{
+    text-align: center;
+    font-size: 12px;
+}
