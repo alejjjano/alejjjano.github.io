@@ -12,3 +12,12 @@ p{
     text-align: center;
     font-size: 12px;
 }
+button{
+    background-color: blanchedalmond;
+}
+button:hover{
+    background-color: rgb(252, 188, 93);
+}
+button:active{
+    background-color: burlywood;
+}
